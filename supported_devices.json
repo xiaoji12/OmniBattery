@@ -1,0 +1,980 @@
+[
+  {
+    "id": "1",
+    "brand": "Apple/苹果",
+    "modelCn": "AirPods 2",
+    "modelEn": "AirPods 2"
+  },
+  {
+    "id": "2",
+    "brand": "Apple/苹果",
+    "modelCn": "AirPods Pro 3",
+    "modelEn": "AirPods Pro 3"
+  },
+  {
+    "id": "3",
+    "brand": "Apple/苹果",
+    "modelCn": "AirPods Pro Max",
+    "modelEn": "AirPods Pro Max"
+  },
+  {
+    "id": "4",
+    "brand": "VGN",
+    "modelCn": "蜻蜓 3 Master",
+    "modelEn": "Dragonfly 3 Master"
+  },
+  {
+    "id": "5",
+    "brand": "MCHOSE/迈从",
+    "modelCn": "K99 V3",
+    "modelEn": "K99 V3"
+  },
+  {
+    "id": "6",
+    "brand": "MCHOSE/迈从",
+    "modelCn": "V9 Pro",
+    "modelEn": "V9 Pro"
+  },
+  {
+    "id": "7",
+    "brand": "Logitech/罗技",
+    "modelCn": "罗技 PRO X 无线游戏耳机",
+    "modelEn": "Logitech PRO X Wireless Gaming Headset"
+  },
+  {
+    "id": "8",
+    "brand": "Logitech/罗技",
+    "modelCn": "G304",
+    "modelEn": "G304"
+  },
+  {
+    "id": "9",
+    "brand": "Logitech/罗技",
+    "modelCn": "其他型号可能支持",
+    "modelEn": "Other models may support"
+  },
+  {
+    "id": "10",
+    "brand": "Razer/雷蛇",
+    "modelCn": "其他型号可能支持",
+    "modelEn": "Other models may support"
+  },
+  {
+    "id": "11",
+    "brand": "Razer/雷蛇",
+    "modelCn": "雷蛇 毒蝰3极速版",
+    "modelEn": "Razer Viper V3 HyperSpeed"
+  },
+  {
+    "id": "12",
+    "brand": "Razer/雷蛇",
+    "modelCn": "黑寡妇 V3 MINI",
+    "modelEn": "Razer BlackWidow V3 MINI"
+  },
+  {
+    "id": "13",
+    "brand": "ATK",
+    "modelCn": "ATK X1",
+    "modelEn": "ATK X1"
+  },
+  {
+    "id": "14",
+    "brand": "ATK",
+    "modelCn": "其他型号可能支持",
+    "modelEn": "Other models may support"
+  },
+  {
+    "id": "15",
+    "brand": "ASUS/华硕",
+    "modelCn": "其他型号可能支持",
+    "modelEn": "Other models may support"
+  },
+  {
+    "id": "16",
+    "brand": "ASUS/华硕",
+    "modelCn": "ROG 龙鳞 AimPoint",
+    "modelEn": "ROG Harpe Ace AimPoint"
+  },
+  {
+    "id": "17",
+    "brand": "ASUS/华硕",
+    "modelCn": "ROG 夜魔",
+    "modelEn": "ROG Azoth"
+  },
+  {
+    "id": "18",
+    "brand": "HyperX/极度未知",
+    "modelCn": "Cloud 3",
+    "modelEn": "Cloud 3"
+  },
+  {
+    "id": "19",
+    "brand": "Rapoo/雷柏",
+    "modelCn": "其他型号可能支持",
+    "modelEn": "Other models may support"
+  },
+  {
+    "id": "20",
+    "brand": "Logitech/罗技",
+    "modelCn": "G PRO X 2",
+    "modelEn": "G PRO X 2"
+  },
+  {
+    "id": "21",
+    "brand": "MCHOSE/迈从",
+    "modelCn": "V9 Turbo+",
+    "modelEn": "V9 Turbo+"
+  },
+  {
+    "id": "22",
+    "brand": "MCHOSE/迈从",
+    "modelCn": "G3V2",
+    "modelEn": "G3V2"
+  },
+  {
+    "id": "23",
+    "brand": "MCHOSE/迈从",
+    "modelCn": "Z75s",
+    "modelEn": "Z75s"
+  },
+  {
+    "id": "24",
+    "brand": "MCHOSE/迈从",
+    "modelCn": "G3 A",
+    "modelEn": "G3 A"
+  },
+  {
+    "id": "25",
+    "brand": "ASUS/华硕",
+    "modelCn": "ROG 棱镜 2",
+    "modelEn": "ROG Delta II headset"
+  },
+  {
+    "id": "26",
+    "brand": "Steelseries/赛睿",
+    "modelCn": "赛睿 Arctis Nova Pro",
+    "modelEn": "Steelseries Arctis Nova Pro"
+  },
+  {
+    "id": "27",
+    "brand": "Fractal",
+    "modelCn": "Fractal Scape",
+    "modelEn": "Fractal Scape"
+  },
+  {
+    "id": "28",
+    "brand": "ninjutso",
+    "modelCn": "ninjutso sora v3",
+    "modelEn": "ninjutso sora v3"
+  },
+  {
+    "id": "29",
+    "brand": "ninjutso",
+    "modelCn": "ninjutso ten air",
+    "modelEn": "ninjutso ten air"
+  },
+  {
+    "id": "30",
+    "brand": "ATK",
+    "modelCn": "ATK Z87 PRO",
+    "modelEn": "ATK Z87 PRO"
+  },
+  {
+    "id": "31",
+    "brand": "CHERRY/樱桃",
+    "modelCn": "CHERRY MX BOARD 3.0S",
+    "modelEn": "CHERRY MX BOARD 3.0S"
+  },
+  {
+    "id": "32",
+    "brand": "PMO",
+    "modelCn": "PMO P75",
+    "modelEn": "PMO P75"
+  },
+  {
+    "id": "33",
+    "brand": "TOGAR/图阁",
+    "modelCn": "图阁 T90",
+    "modelEn": "TOGAR T90"
+  },
+  {
+    "id": "34",
+    "brand": "Razer/雷蛇",
+    "modelCn": "黑寡妇 V4 MINI",
+    "modelEn": "Razer BlackWidow V4 MINI"
+  },
+  {
+    "id": "35",
+    "brand": "Razer/雷蛇",
+    "modelCn": "雷蛇 Cobra Pro",
+    "modelEn": "Razer Cobra Pro"
+  },
+  {
+    "id": "36",
+    "brand": "WanLingJingJi/万灵竞记",
+    "modelCn": "万灵花兽 Mini",
+    "modelEn": "WLMOUSE Beast X Mini"
+  },
+  {
+    "id": "37",
+    "brand": "Logitech/罗技",
+    "modelCn": "G733",
+    "modelEn": "G733"
+  },
+  {
+    "id": "38",
+    "brand": "Valkyrie/瓦尔基里",
+    "modelCn": "瓦尔基里 M1 Pro",
+    "modelEn": "Valkyrie M1 Pro"
+  },
+  {
+    "id": "39",
+    "brand": "EWEADN/前行者",
+    "modelCn": "前行者 S9 PRO",
+    "modelEn": "EWEADN S9 PRO"
+  },
+  {
+    "id": "40",
+    "brand": "AJAZZ/黑爵",
+    "modelCn": "黑爵 AJ 159 PRO",
+    "modelEn": "AJAZZ AJ 159 PRO"
+  },
+  {
+    "id": "41",
+    "brand": "Razer/雷蛇",
+    "modelCn": "雷蛇旋风黑鲨 V3 专业版",
+    "modelEn": "Razer BlackShark V3 Pro"
+  },
+  {
+    "id": "42",
+    "brand": "AJAZZ/黑爵",
+    "modelCn": "黑爵 AJ 159 P",
+    "modelEn": "AJAZZ AJ 159 P"
+  },
+  {
+    "id": "43",
+    "brand": "VGN",
+    "modelCn": "VGN 98 Pro V3",
+    "modelEn": "VGN 98 Pro V3"
+  },
+  {
+    "id": "44",
+    "brand": "SONY/索尼",
+    "modelCn": "索尼 INZONE H9 II",
+    "modelEn": "SONY INZONE H9 II"
+  },
+  {
+    "id": "44",
+    "brand": "RAWM/仁魔",
+    "modelCn": "仁魔 SA-MH01",
+    "modelEn": "RAWM SA-MH01"
+  },
+  {
+    "id": "45",
+    "brand": "Razer/雷蛇",
+    "modelCn": "雷蛇 毒蝰终极版",
+    "modelEn": "Razer Viper Ultimate"
+  },
+  {
+    "id": "45",
+    "brand": "Pulsar/派世",
+    "modelCn": "派世 X3 LHD",
+    "modelEn": "Pulsar X3 LHD"
+  },
+  {
+    "id": "46",
+    "brand": "Pulsar/派世",
+    "modelCn": "派世 Xlite V4",
+    "modelEn": "Pulsar Xlite V4"
+  },
+  {
+    "id": "47",
+    "brand": "Edifier/漫步者",
+    "modelCn": "漫步者 G3M Pro",
+    "modelEn": "Edifier G3M Pro"
+  },
+  {
+    "id": "48",
+    "brand": "Pulsar/派世",
+    "modelCn": "派世 x2 carzy light",
+    "modelEn": "Pulsar x2 carzy light"
+  },
+  {
+    "id": "49",
+    "brand": "JingZao/京东京造",
+    "modelCn": "京东京造 JZM5",
+    "modelEn": "JingZao JZM5"
+  },
+  {
+    "id": "50",
+    "brand": "HP/惠普",
+    "modelCn": "惠普 GT98",
+    "modelEn": "HP GT98"
+  },
+  {
+    "id": "51",
+    "brand": "G-wolves/游狼",
+    "modelCn": "游狼 Fenrir_Max",
+    "modelEn": "G-wolves Fenrir_Max"
+  },
+  {
+    "id": "52",
+    "brand": "VGN",
+    "modelCn": "VGN霓虹75超竞版",
+    "modelEn": "VGN N75 Esports Edition"
+  },
+  {
+    "id": "53",
+    "brand": "DarmoShark/达摩鲨",
+    "modelCn": "达摩鲨 M9",
+    "modelEn": "DarmoShark M9"
+  },
+  {
+    "id": "54",
+    "brand": "ASUS/华硕",
+    "modelCn": "华硕天选Mini初音未来版",
+    "modelEn": "ASUS TX GAMING Mini"
+  },
+  {
+    "id": "55",
+    "brand": "INPHIC/英菲克",
+    "modelCn": "英菲克 IN10R MAX",
+    "modelEn": "INPHIC IN10R MAX"
+  },
+  {
+    "id": "56",
+    "brand": "Dareu/达尔优",
+    "modelCn": "达尔优 COOL 98",
+    "modelEn": "Dareu COOL 98"
+  },
+  {
+    "id": "57",
+    "brand": "VAXEE",
+    "modelCn": "VAXEE np01sw v2",
+    "modelEn": "VAXEE np01sw v2"
+  },
+  {
+    "id": "58",
+    "brand": "MCHOSE/迈从",
+    "modelCn": "K99 V1",
+    "modelEn": "K99 V1"
+  },
+  {
+    "id": "59",
+    "brand": "Steelseries/赛睿",
+    "modelCn": "Steelseries Prime Mini",
+    "modelEn": "Steelseries Prime Mini"
+  },
+  {
+    "id": "60",
+    "brand": "AULA/狼蛛",
+    "modelCn": "狼蛛 F87 Pro V2C",
+    "modelEn": "AULA F87 Pro V2C"
+  },
+  {
+    "id": "61",
+    "brand": "GLORIOUS",
+    "modelCn": "GLORIOUS model o2 pro",
+    "modelEn": "GLORIOUS model o2 pro"
+  },
+  {
+    "id": "62",
+    "brand": "DarmoShark/达摩鲨",
+    "modelCn": "达摩鲨 M5 Pro",
+    "modelEn": "DarmoShark M5 Pro"
+  },
+  {
+    "id": "63",
+    "brand": "CHERRY/樱桃",
+    "modelCn": "CHERRY PIXIU 99",
+    "modelEn": "CHERRY PIXIU 99"
+  },
+  {
+    "id": "64",
+    "brand": "VGN",
+    "modelCn": "VGN 霓虹 75 Pro",
+    "modelEn": "VGN N75 75 Pro"
+  },
+  {
+    "id": "65",
+    "brand": "Dareu/达尔优",
+    "modelCn": "达尔优 A980 PRO",
+    "modelEn": "Dareu A980 PRO"
+  },
+  {
+    "id": "66",
+    "brand": "Steelseries/赛睿",
+    "modelCn": "赛睿 GameBuds",
+    "modelEn": "SteelSeries GameBuds"
+  },
+  {
+    "id": "67",
+    "brand": "Edifier/漫步者",
+    "modelCn": "漫步者 HECATE G5 MAX",
+    "modelEn": "HECATE G5 MAX"
+  },
+  {
+    "id": "68",
+    "brand": "Lunafury",
+    "modelCn": "Lunafury TYPE33 EVO",
+    "modelEn": "Lunafury TYPE33 EVO"
+  },
+  {
+    "id": "69",
+    "brand": "Lenovo/联想",
+    "modelCn": "Lenovo M6X Pro",
+    "modelEn": "Lenovo M6X Pro"
+  },
+  {
+    "id": "70",
+    "brand": "Valkyrie/瓦尔基里",
+    "modelCn": "瓦尔基里 VK M3 Lite",
+    "modelEn": "Valkyrie VK M3 Lite"
+  },
+  {
+    "id": "71",
+    "brand": "ATK",
+    "modelCn": "ATK A87 PRO",
+    "modelEn": "ATK A87 PRO"
+  },
+  {
+    "id": "72",
+    "brand": "EPOS/音珀",
+    "modelCn": "EPOS H3 PRO",
+    "modelEn": "EPOS H3 PRO"
+  },
+  {
+    "id": "73",
+    "brand": "Incott/因科特",
+    "modelCn": "Incott g23",
+    "modelEn": "Incott g23"
+  },
+  {
+    "id": "74",
+    "brand": "AULA/狼蛛",
+    "modelCn": "狼蛛 SC680",
+    "modelEn": "AULA SC680"
+  },
+  {
+    "id": "75",
+    "brand": "Delux/多彩",
+    "modelCn": "多彩 M900 Pro",
+    "modelEn": "Delux M900 Pro"
+  },
+  {
+    "id": "76",
+    "brand": "EPOS/音珀",
+    "modelCn": "EPOS GSP370",
+    "modelEn": "EPOS GSP370"
+  },
+  {
+    "id": "77",
+    "brand": "Rapoo/雷柏",
+    "modelCn": "雷柏 VT7 Max",
+    "modelEn": "Rapoo VT7 Max"
+  },
+  {
+    "id": "78",
+    "brand": "Incott/因科特",
+    "modelCn": "Incott G23 Pro",
+    "modelEn": "Incott G23 Pro"
+  },
+  {
+    "id": "79",
+    "brand": "Redragon/红龙",
+    "modelCn": "红龙 KS99",
+    "modelEn": "Redragon KS99"
+  },
+  {
+    "id": "80",
+    "brand": "Dareu/达尔优",
+    "modelCn": "达尔优 EK87 Pro",
+    "modelEn": "Dareu EK87 Pro"
+  },
+  {
+    "id": "81",
+    "brand": "Pulsar/派世",
+    "modelCn": "Pulsar X2H Mini",
+    "modelEn": "Pulsar X2H Mini"
+  },
+  {
+    "id": "82",
+    "brand": "Finalmouse",
+    "modelCn": "Finalmouse UltralightX",
+    "modelEn": "Finalmouse UltralightX"
+  },
+  {
+    "id": "83",
+    "brand": "Razer/雷蛇",
+    "modelCn": "Razer Pro Type Ultra",
+    "modelEn": "Razer Pro Type Ultra"
+  },
+  {
+    "id": "84",
+    "brand": "Gamesir/盖世小鸡",
+    "modelCn": "盖世小鸡超新星",
+    "modelEn": "Gamesir Super Nova"
+  },
+  {
+    "id": "85",
+    "brand": "Gamesir/盖世小鸡",
+    "modelCn": "盖世小鸡 G7 Pro",
+    "modelEn": "Gamesir G7 Pro"
+  },
+  {
+    "id": "86",
+    "brand": "Razer/雷蛇",
+    "modelCn": "雷蛇黑鲨 V2 Pro",
+    "modelEn": "Razer BlackShark V2 Pro"
+  },
+  {
+    "id": "87",
+    "brand": "闪克/Maono",
+    "modelCn": "闪克 PD200W",
+    "modelEn": "Maono PD200W"
+  },
+  {
+    "id": "88",
+    "brand": "御斧/ROYALAXE",
+    "modelCn": "御斧 R108",
+    "modelEn": "ROYALAXE R108"
+  },
+  {
+    "id": "89",
+    "brand": "ASUS/华硕",
+    "modelCn": "ROG 破风",
+    "modelEn": "ROG Pelta"
+  },
+  {
+    "id": "90",
+    "brand": "Delux/多彩",
+    "modelCn": "多彩 M900+",
+    "modelEn": "Delux M900+"
+  },
+  {
+    "id": "91",
+    "brand": "Delux/多彩",
+    "modelCn": "多彩 M900 Ultra",
+    "modelEn": "Delux M900 Ultra"
+  },
+  {
+    "id": "92",
+    "brand": "Dareu/达尔优",
+    "modelCn": "达尔优 A950",
+    "modelEn": "Dareu A950"
+  },
+  {
+    "id": "93",
+    "brand": "飞智/Flydigi",
+    "modelCn": "飞智 八爪鱼5",
+    "modelEn": "Flydigi Octopus5"
+  },
+  {
+    "id": "94",
+    "brand": "SONY/索尼",
+    "modelCn": "索尼 Dualsense",
+    "modelEn": "SONY Dualsense"
+  },
+  {
+    "id": "95",
+    "brand": "SONY/索尼",
+    "modelCn": "索尼 Dualsense Edge",
+    "modelEn": "SONY Dualsense Edge"
+  },
+  {
+    "id": "96",
+    "brand": "SONY/索尼",
+    "modelCn": "索尼 DualShock",
+    "modelEn": "SONY DualShock"
+  },
+  {
+    "id": "97",
+    "brand": "Xiaomi/小米",
+    "modelCn": "小米电竞鼠标2",
+    "modelEn": "Xiaomi Gaming Mouse2"
+  },
+  {
+    "id": "98",
+    "brand": "Xiaomi/小米",
+    "modelCn": "小米 MK71 PRO",
+    "modelEn": "Xiaomi MK71 PRO"
+  },
+  {
+    "id": "99",
+    "brand": "DarmoShark/达摩鲨",
+    "modelCn": "达摩鲨 M3 Pro",
+    "modelEn": "DarmoShark M3 Pro"
+  },
+  {
+    "id": "100",
+    "brand": "AULA/狼蛛",
+    "modelCn": "狼蛛 V3",
+    "modelEn": "AULA V3"
+  },
+  {
+    "id": "101",
+    "brand": "INPHIC/英菲克",
+    "modelCn": "英菲克 IN6",
+    "modelEn": "INPHIC IN6"
+  },
+  {
+    "id": "102",
+    "brand": "Razer/雷蛇",
+    "modelCn": "雷蛇悦神",
+    "modelEn": "Razer Clio"
+  },
+  {
+    "id": "103",
+    "brand": "CHERRY/樱桃",
+    "modelCn": "CHERRY MX8.2",
+    "modelEn": "CHERRY MX8.2"
+  },
+  {
+    "id": "104",
+    "brand": "ASUS/华硕",
+    "modelCn": "ROG OWS",
+    "modelEn": "ROG OWS"
+  },
+  {
+    "id": "105",
+    "brand": "Gamesir/盖世小鸡",
+    "modelCn": "盖世小鸡启明星2 Lite",
+    "modelEn": "Gamesir Nova 2 Lite"
+  },
+  {
+    "id": "106",
+    "brand": "怒喵/AngryMiao",
+    "modelCn": "怒喵Infinity.100",
+    "modelEn": "AngryMiao Infinity.100"
+  },
+  {
+    "id": "107",
+    "brand": "怒喵/AngryMiao",
+    "modelCn": "怒喵Infinity.97",
+    "modelEn": "AngryMiao Infinity.97"
+  },
+  {
+    "id": "108",
+    "brand": "Steelseries/赛睿",
+    "modelCn": "赛睿 寒冰新星 7",
+    "modelEn": "Steelseries Arctis Nova 7"
+  },
+  {
+    "id": "109",
+    "brand": "Leobog/莱奥伯格‌",
+    "modelCn": "Leobog GM5 Pro",
+    "modelEn": "Leobog GM5 Pro"
+  },
+  {
+    "id": "110",
+    "brand": "Valkyrie/瓦尔基里",
+    "modelCn": "瓦尔基里 Vk87 Max V2",
+    "modelEn": "Valkyrie Vk87 Max V2"
+  },
+  {
+    "id": "111",
+    "brand": "LAMZU/兰族",
+    "modelCn": "兰族 MAYAX",
+    "modelEn": "LAMZU MAYAX"
+  },
+  {
+    "id": "112",
+    "brand": "TurtleBeach/乌龟海岸",
+    "modelCn": "乌龟海岸刺客600三代",
+    "modelEn": "Turtle Beach Stealth 600 Gen3"
+  },
+  {
+    "id": "113",
+    "brand": "BETOP/北通",
+    "modelCn": "北通阿修罗2 Pro+",
+    "modelEn": "BETOP Asura 2 Pro+"
+  },
+  {
+    "id": "114",
+    "brand": "Razer/雷蛇",
+    "modelCn": "雷蛇旋风黑鲨 V2 极速版",
+    "modelEn": "Razer BlackShark V2 HyperSpeed"
+  },
+  {
+    "id": "115",
+    "brand": "SONY/索尼",
+    "modelCn": "索尼 Inzone Mouse-A",
+    "modelEn": "SONY Inzone Mouse-A"
+  },
+  {
+    "id": "116",
+    "brand": "ATK",
+    "modelCn": "ATK 蜻蜓 A9",
+    "modelEn": "ATK Dragonfly A9"
+  },
+  {
+    "id": "117",
+    "brand": "ASUS/华硕",
+    "modelCn": "ROG 月刃2 RGB",
+    "modelEn": "ROG Keris II RGB"
+  },
+  {
+    "id": "118",
+    "brand": "Delux/多彩",
+    "modelCn": "多彩 M800 Pro",
+    "modelEn": "Delux M800 Pro"
+  },
+  {
+    "id": "119",
+    "brand": "AULA/狼蛛",
+    "modelCn": "狼蛛 V9 Pro+",
+    "modelEn": "AULA V9 Pro+"
+  },
+  {
+    "id": "120",
+    "brand": "Edifier/漫步者",
+    "modelCn": "漫步者 G5M Pro",
+    "modelEn": "Edifier G5M Pro"
+  },
+  {
+    "id": "121",
+    "brand": "Leobog/莱奥伯格‌",
+    "modelCn": "LEOBOG Hi75C Pro",
+    "modelEn": "LEOBOG Hi75C Pro"
+  },
+  {
+    "id": "122",
+    "brand": "Gamesir/盖世小鸡",
+    "modelCn": "盖世小鸡九尾狐",
+    "modelEn": "Gamesir Tarantula"
+  },
+  {
+    "id": "123",
+    "brand": "SONY/索尼",
+    "modelCn": "索尼 INZONE Buds",
+    "modelEn": "SONY INZONE Buds"
+  },
+  {
+    "id": "124",
+    "brand": "JBL",
+    "modelCn": "JBL Quantum 950",
+    "modelEn": "JBL Quantum 950"
+  },
+  {
+    "id": "125",
+    "brand": "VGN",
+    "modelCn": "VGN V98 Pro V4 8K",
+    "modelEn": "VGN V98 Pro V4 8K"
+  },
+  {
+    "id": "126",
+    "brand": "ROCCAT",
+    "modelCn": "ROCCAT Burst Pro Air",
+    "modelEn": "ROCCAT Burst Pro Air"
+  },
+  {
+    "id": "127",
+    "brand": "八位堂/8BitDo",
+    "modelCn": "八位堂 Retro87",
+    "modelEn": "8BitDo Retro87"
+  },
+  {
+    "id": "128",
+    "brand": "steam",
+    "modelCn": "steam controller 2026",
+    "modelEn": "steam controller 2026"
+  },
+  {
+    "id": "129",
+    "brand": "EWEADN/前行者",
+    "modelCn": "前行者 X87 V2",
+    "modelEn": "EWEADN X87 V2"
+  },
+  {
+    "id": "130",
+    "brand": "GANSS/高斯",
+    "modelCn": "高斯 ES75T",
+    "modelEn": "GANSS ES75T"
+  },
+  {
+    "id": "131",
+    "brand": "AULA/狼蛛",
+    "modelCn": "狼蛛 Nova 75",
+    "modelEn": "AULA Nova 75"
+  },
+  {
+    "id": "132",
+    "brand": "AULA/狼蛛",
+    "modelCn": "狼蛛 SC620",
+    "modelEn": "AULA SC620"
+  },
+  {
+    "id": "133",
+    "brand": "Bloody/血手幽灵",
+    "modelCn": "血手幽灵 R90 plus",
+    "modelEn": "Bloody R90 plus"
+  },
+  {
+    "id": "134",
+    "brand": "Corsair/海盗船",
+    "modelCn": "海盗船 K100 Air",
+    "modelEn": "Corsair K100 Air"
+  },
+  {
+    "id": "135",
+    "brand": "XINMENG/新盟",
+    "modelCn": "新盟 zero3",
+    "modelEn": "XINMENG zero3"
+  },
+  {
+    "id": "136",
+    "brand": "TurtleBeach/乌龟海岸",
+    "modelCn": "乌龟海岸 Atlas Air",
+    "modelEn": "Turtle Beach Atlas Air"
+  },
+  {
+    "id": "137",
+    "brand": "Leobog/莱奥伯格‌",
+    "modelCn": "LEOBOG Hi98 Pro",
+    "modelEn": "LEOBOG Hi98 Pro"
+  },
+  {
+    "id": "138",
+    "brand": "MCHOSE/迈从",
+    "modelCn": "MCHOSE K7V2 Ultra",
+    "modelEn": "MCHOSE K7V2 Ultra"
+  },
+  {
+    "id": "139",
+    "brand": "INPHIC/英菲克",
+    "modelCn": "INPHIC IN9 Ultra 枪火版",
+    "modelEn": "INPHIC IN9 Ultra 3950"
+  },
+  {
+    "id": "140",
+    "brand": "MCHOSE/迈从",
+    "modelCn": "MCHOSE G98 V3",
+    "modelEn": "MCHOSE G98 V3"
+  },
+  {
+    "id": "141",
+    "brand": "RAWM/仁魔",
+    "modelCn": "仁魔 SA-SH01Pro",
+    "modelEn": "RAWM SA-SH01Pro"
+  },
+  {
+    "id": "142",
+    "brand": "EWEADN/前行者",
+    "modelCn": "前行者 X87",
+    "modelEn": "EWEADN X87"
+  },
+  {
+    "id": "143",
+    "brand": "飞智/Flydigi",
+    "modelCn": "飞智 八爪鱼4",
+    "modelEn": "Flydigi Octopus4"
+  },
+  {
+    "id": "144",
+    "brand": "觅声/Misiom",
+    "modelCn": "觅声阿尔法 Pro",
+    "modelEn": "Misiom Alpha Pro"
+  },
+  {
+    "id": "145",
+    "brand": "奥帝兹/Audeze",
+    "modelCn": "奥帝兹 Maxwell 2",
+    "modelEn": "Audeze Maxwell 2"
+  },
+  {
+    "id": "146",
+    "brand": "腹灵/FLESPORTS",
+    "modelCn": "腹灵 OG 104",
+    "modelEn": "FLESPORTS OG 104"
+  },
+  {
+    "id": "147",
+    "brand": "DarmoShark/达摩鲨",
+    "modelCn": "达摩鲨 M2 Pro",
+    "modelEn": "DarmoShark M2 Pro"
+  },
+  {
+    "id": "148",
+    "brand": "赛洛斯/SCYROX",
+    "modelCn": "赛洛斯 V6",
+    "modelEn": "SCYROX V6"
+  },
+  {
+    "id": "149",
+    "brand": "酷冷至尊/COOLER MASTER",
+    "modelCn": "酷冷至尊 CK721",
+    "modelEn": "COOLER MASTER CK721"
+  },
+  {
+    "id": "150",
+    "brand": "Steelseries/赛睿",
+    "modelCn": "赛睿 Arctis 7+",
+    "modelEn": "Steelseries Arctis 7+"
+  },
+  {
+    "id": "151",
+    "brand": "ATK",
+    "modelCn": "ATK 烈空 幻影",
+    "modelEn": "ATK Blazing Sky Phantom"
+  },
+  {
+    "id": "152",
+    "brand": "Incott/因科特",
+    "modelCn": "Incott G23 V2",
+    "modelEn": "Incott G23 V2"
+  },
+  {
+    "id": "153",
+    "brand": "EWEADN/前行者",
+    "modelCn": "前行者 S9 V2 Master+ ",
+    "modelEn": "EWEADN S9 V2 Master+ "
+  },
+  {
+    "id": "154",
+    "brand": "Logitech/罗技",
+    "modelCn": "罗技 ASTRO A50",
+    "modelEn": "Logitech ASTRO A50"
+  },
+  {
+    "id": "155",
+    "brand": "MCHOSE/迈从",
+    "modelCn": "迈从 R9",
+    "modelEn": "MCHOSE R9"
+  },
+  {
+    "id": "156",
+    "brand": "EWEADN/前行者",
+    "modelCn": "前行者 z7",
+    "modelEn": "EWEADN z7"
+  },
+  {
+    "id": "157",
+    "brand": "Logitech/罗技",
+    "modelCn": "罗技 GPW 5 Ultra",
+    "modelEn": "Logitech GPW 5 Ultra"
+  },
+  {
+    "id": "158",
+    "brand": "GANSS/高斯",
+    "modelCn": "高斯 GS3104T-PRO",
+    "modelEn": "GANSS GS3104T-PRO"
+  },
+  {
+    "id": "159",
+    "brand": "ANTGAMER/蚂蚁电竞",
+    "modelCn": "蚂蚁电竞 AGM535R",
+    "modelEn": "ANTGAMER AGM535R"
+  },
+  {
+    "id": "160",
+    "brand": "Acer/宏碁",
+    "modelCn": "宏碁 OKR239",
+    "modelEn": "Acer OKR239"
+  },
+  {
+    "id": "161",
+    "brand": "LANGTU/狼途",
+    "modelCn": "狼途 T88",
+    "modelEn": "LANGTU T88"
+  }
+]

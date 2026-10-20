@@ -1,0 +1,38 @@
+# Build outputs
+*.exe
+*.dll
+*.pdb
+bin/
+obj/
+*.log
+
+# Temp & debug scripts from reverse-engineering
+*.tmp
+async_probe.ps1
+calc_methods.ps1
+check_json.ps1
+check_sections.ps1
+disasm_methods.ps1
+dump_*.ps1
+find_*.ps1
+parse_meta.ps1
+probe_*.ps1
+search_pmo.ps1
+test_invoke_tokens.ps1
+meta_parser.cs
+meta_test.cs
+test_github.ps1
+create_repo.ps1
+check_token.ps1
+debug_create.ps1
+check_repo.ps1
+test_perms.ps1
+list_repos.ps1
+screenshot_main.png
+screenshot_winui3.png
+
+# User specific files
+*.user
+*.suo
+.vs/
+.idea/
